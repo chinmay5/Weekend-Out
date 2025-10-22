@@ -6,3 +6,4 @@
 - [ ] sleeping pad
 - [ ] lunch
 - [ ] firewood
+- [ ] blanket
